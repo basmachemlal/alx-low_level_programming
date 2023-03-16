@@ -1,8 +1,8 @@
 #include <stdio.h>
 int main(void){
 /**
- * Description: main function
- * return: 0 if no errors
+ * Description: main - prints out a string to stdout.
+ * return: 0 if success
  */	
 
 puts("\"Programming is like building a multilingual puzzle");
